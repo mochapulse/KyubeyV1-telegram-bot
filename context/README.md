@@ -1,0 +1,1 @@
+Docs, mds, files in general that document the project and its structure.
